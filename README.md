@@ -2,6 +2,8 @@
 
 Bir yemek fotoğrafını ve tek bir promptu ChatGPT'ye ver; yaklaşık 10 dakika sonra 15 saniyelik, 8 kesimli, dikey bir reklam videosu çıkıyor. Bu depo, YouTube videomda kullandığım promptların tamamını ve hangi Higgsfield yeteneklerini açtığımı içerir.
 
+Videosu: https://youtu.be/04Ijq8byCMY
+
 Higgsfield'ı buradan dene: https://higgsfield.ai/s/higgsfield-ads-studio-yt-selma-builds-IaYxSW
 
 ## Promptlar
